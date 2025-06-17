@@ -24,6 +24,6 @@
 
 <h2>🌍 Links Importantes:</h2>
 <ul>
-  <li>🌐 <strong>Deploy do projeto:</strong> <a href="https://erikbdasilva20.github.io/Devclub_Store/" target="_blank" rel="noopener noreferrer">https://erikbdasilva20.github.io/Devclub_Store/</a></li>
-  <li>📁 <strong>Repositório:</strong> <a href="https://github.com/ErikBdaSilva20/Devclub_Store" target="_blank" rel="noopener noreferrer">https://github.com/ErikBdaSilva20/Devclub_Store</a></li>
+  <li>🌐 <strong>Deploy do projeto:</strong> <a href="https://erikbdasilva20.github.io/DevclubStore/" target="_blank" rel="noopener noreferrer">https://erikbdasilva20.github.io/DevclubStore/</a></li>
+  <li>📁 <strong>Repositório:</strong> <a href="https://github.com/ErikBdaSilva20/DevclubStore" target="_blank" rel="noopener noreferrer">https://github.com/ErikBdaSilva20/DevclubStore</a></li>
 </ul>
